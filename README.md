@@ -31,7 +31,7 @@ The solver navigates from the **top-left corner** of the maze to the
 - DFS continues until the exit is found or no path exists
 
 ## How to Run
-1. Compile all Java files
+1. Compile all Java files in src file
 2. Run the main `Maze` class
 3. Watch the solver explore the maze and find a path to the exit
 
